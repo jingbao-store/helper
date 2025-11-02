@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jingbao Helper</string>
+    <string name="wifi_manage">Wi‑Fi</string>
+    <string name="bluetooth_manage">Bluetooth</string>
+    <string name="key_sound_status">Key sound</string>
+    <string name="system_settings">System settings</string>
+    <string name="tip_open_wifi_settings">Failed to open Wi‑Fi settings</string>
+    <string name="tip_open_bt_settings">Failed to open Bluetooth settings</string>
+    <string name="tip_open_system_settings">Failed to open system settings</string>
+    <string name="tip_write_settings_request">Please grant "Modify system settings" and try again</string>
+    <string name="key_sound_on">Key sound: on</string>
+    <string name="key_sound_off">Key sound: off</string>
+    <string name="key_sound_toggle_failed">Failed to toggle key sound</string>
+</resources>
