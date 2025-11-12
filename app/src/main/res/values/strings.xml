@@ -12,4 +12,6 @@
     <string name="key_sound_on">按键音：开</string>
     <string name="key_sound_off">按键音：关</string>
     <string name="key_sound_toggle_failed">切换按键音失败</string>
+    <string name="developer_options">开发者选项</string>
+    <string name="tip_open_dev_settings">无法打开开发者选项</string>
 </resources>

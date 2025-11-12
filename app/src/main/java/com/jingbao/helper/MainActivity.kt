@@ -47,6 +47,14 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, getString(R.string.tip_open_system_settings), Toast.LENGTH_SHORT).show()
             }
         }
+
+        findViewById<MaterialButton>(R.id.btn_dev_options).setOnClickListener {
+            try {
+                startActivity(Intent(Settings.ACTION_APPLICATION_DEVELOPMENT_SETTINGS))
+            } catch (e: Exception) {
+                Toast.makeText(this, getString(R.string.tip_open_dev_settings), Toast.LENGTH_SHORT).show()
+            }
+        }
     }
 
     override fun onResume() {

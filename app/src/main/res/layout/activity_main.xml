@@ -73,6 +73,22 @@
         app:strokeWidth="2dp"
         app:cornerRadius="12dp" />
 
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_dev_options"
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/developer_options"
+        android:textSize="18sp"
+        android:lineHeight="20sp"
+        android:textColor="@color/brand_primary"
+        app:strokeColor="@color/brand_primary"
+        app:strokeWidth="2dp"
+        app:cornerRadius="12dp" />
+
     <TextView
         android:id="@+id/tv_ip"
         android:layout_width="wrap_content"
