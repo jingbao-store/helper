@@ -12,4 +12,6 @@
     <string name="key_sound_on">Key sound: on</string>
     <string name="key_sound_off">Key sound: off</string>
     <string name="key_sound_toggle_failed">Failed to toggle key sound</string>
+    <string name="developer_options">Developer options</string>
+    <string name="tip_open_dev_settings">Failed to open developer options</string>
 </resources>
